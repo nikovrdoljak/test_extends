@@ -4,9 +4,7 @@ Created for testing github pages issue with extends keyword in markup.
 2. As expected, page is built. Now I will add some HTML code:
 
 ```html
-{% 
-extends 'admin/master.html' 
-%}
+{% eextends 'admin/master.html' %}
 <h3>Header</h3>
 <p>Paragraph</p>
 ```
