@@ -8,4 +8,4 @@ Created for testing github pages issue with extends keyword in markup.
 <p>Paragraph</p>
 ```
 
-3. Will add "_extends_" keyword in code above between _{% %}_
+3. Will add "_extends_" keyword in code above between _block_start_string_ and _block_end_string_.
