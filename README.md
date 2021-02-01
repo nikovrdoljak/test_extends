@@ -4,9 +4,9 @@ Created for testing github pages issue with extends keyword in markup.
 2. As expected, page is built. Now I will add some HTML code:
 
 ```jinja
-<!-- {% raw %} -->
+{% raw %}
 {% extends 'admin/master.html' %}
-<!-- {% endraw %} -->
+{% endraw %}
 <h3>Header</h3>
 <p>Paragraph</p>
 ```
