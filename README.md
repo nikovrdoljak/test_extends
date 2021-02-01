@@ -8,4 +8,4 @@ Created for testing github pages issue with extends keyword in markup.
 <p>Paragraph</p>
 ```
 
-_note: above is the html code_
+3. I will add this in code above: _{% extends 'admin/master.html' %}_
